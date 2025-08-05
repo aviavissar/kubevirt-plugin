@@ -42,3 +42,4 @@
 // t('plugin__kubevirt-plugin~Create a Virtual Machine from a template')
 // t('plugin__kubevirt-plugin~Hardware Devices')
 // t('plugin__kubevirt-plugin~Storage MigrationPlans')
+// t('plugin__kubevirt-plugin~Cross cluster migration')
