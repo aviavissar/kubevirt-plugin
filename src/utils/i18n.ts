@@ -2,7 +2,7 @@
 // labels declared in console extensions are added to the message catalog.
 
 // TODO: We should make the custom i18next JSON lexer available to plugins so
-// that they do not need this file.
+// that they dont need this file.
 
 // t('plugin__kubevirt-plugin~Cluster')
 // t('plugin__kubevirt-plugin~Virtualization')
